@@ -1,38 +1,53 @@
 # Machine Learning with Python
 
-Welcome to my Machine Learning portfolio.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-This repository contains practical implementations of Machine Learning algorithms using Python.
+## Overview
 
-## Topics
+This repository contains my practical Machine Learning projects developed during my Master's in Data Science and Artificial Intelligence.
 
-- Data preprocessing
-- Feature engineering
-- Classification
-- Regression
-- Model evaluation
-- Cross-validation
+The objective is to implement, understand and evaluate classical Machine Learning algorithms using Python and Scikit-learn.
+
+---
 
 ## Algorithms
 
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Random Forest
-- Support Vector Machine (SVM)
 - Logistic Regression
 - Linear Regression
+- Support Vector Machine (SVM)
 - XGBoost
+
+---
+
+## Model Evaluation
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
+- Confusion Matrix
+- Cross Validation
+
+---
 
 ## Technologies
 
 - Python
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Scikit-learn
 
+---
+
 ## Author
 
-Ibrahima Mbemba Diatta
+**Ibrahima Mbemba Diatta**
 
-Master's Student in Data Science & Artificial Intelligence
+MSc Student in Data Science & Artificial Intelligence
